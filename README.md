@@ -33,7 +33,7 @@ IXP enables:
 | L4    | Memory Sync               | Exchange belief/context snapshots |
 | L5    | Trust Fabric              | Agent identity, signing, and scoring |
 
-See full spec → [`IXP-Spec.md`](./IXP-Spec.md)
+See full spec → [`IXP-Spec.md`](./IXP-Spec-v0.1.md)
 
 ---
 
